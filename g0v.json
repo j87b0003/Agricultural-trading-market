@@ -5,7 +5,7 @@
 	"name_zh":"圖形化農產品交易行情站",
 	"description":"懇請翻譯支援",
 	"description_zh":"鑑於農委會官方的農產品交易行情站使用介面不人性，因此建構一個易於使用的圖形化農產品交易行情站。",
-	"homepage": "",
+	"homepage": "https://github.com/justin761002/Agricultural-trading-market",
 	"repository":{
 		"type":"git",
 		"url":"https://github.com/justin761002/Agricultural-trading-market"
